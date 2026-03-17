@@ -12,6 +12,7 @@ This repository stores course materials and collaborative work for the **UTIG se
 - `readings/` — reading lists and paper annotations
 - `data/` — data inventories, source links, and metadata
 - `analysis/` — scripts, notebooks, and reproducible workflows
+- `notebooks/` — shared student notebooks and exercises
 - `figures/` — plots and presentation-ready graphics
 
 ## Scope
