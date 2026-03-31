@@ -1,0 +1,205 @@
+{
+  "requested_point": {
+    "latitude": 47.5,
+    "longitude": -102.0
+  },
+  "nearest_grid_point": {
+    "x_index": 2073,
+    "y_index": 2630,
+    "latitude": 47.49738693237305,
+    "longitude": -101.99864959716797,
+    "distance_degrees": 0.0029413788579404354
+  },
+  "elevation_summary_m": {
+    "Surface Elevation": 587.8902587890625,
+    "Bedrock Elevation": 587.4903564453125,
+    "Bottom Cenozoic Elevation": 292.89483642578125,
+    "Bottom Phanerozoic Elevation": -3540.69091796875,
+    "Upper Mid Crustal Elevation": -15059.24609375,
+    "Lower Mid Crustal Elevation": -28453.865234375,
+    "Moho Elevation": -41466.54296875,
+    "Top Ocean Plate Elevation": -410000.0
+  },
+  "layers": [
+    {
+      "layer_number": 1,
+      "boundary_elevation_m": 587.4903564453125,
+      "rock_type_code": 40,
+      "rock_type_name": "Residuum",
+      "age_code": 4,
+      "age_name": "Phanerozoic - Cenozoic - Quaternary - Holocene",
+      "age_min_ma": 0.0,
+      "age_max_ma": 0.011699999682605267
+    },
+    {
+      "layer_number": 2,
+      "boundary_elevation_m": 555.271484375,
+      "rock_type_code": 51,
+      "rock_type_name": "Siltstone",
+      "age_code": 36,
+      "age_name": "Phanerozoic - Cenozoic - Tertiary-Paleogene - Late-Paleocene - Thanetian",
+      "age_min_ma": 56.0,
+      "age_max_ma": 59.20000076293945
+    },
+    {
+      "layer_number": 3,
+      "boundary_elevation_m": 467.8914489746094,
+      "rock_type_code": 45,
+      "rock_type_name": "Claystone",
+      "age_code": 37,
+      "age_name": "Phanerozoic - Cenozoic - Tertiary-Paleogene - Middle-Paleocene - Selandian",
+      "age_min_ma": 59.20000076293945,
+      "age_max_ma": 61.599998474121094
+    },
+    {
+      "layer_number": 4,
+      "boundary_elevation_m": 421.0003967285156,
+      "rock_type_code": 53,
+      "rock_type_name": "Sandstone",
+      "age_code": 35,
+      "age_name": "Phanerozoic - Cenozoic - Tertiary-Paleogene - Paleocene",
+      "age_min_ma": 56.0,
+      "age_max_ma": 66.0
+    },
+    {
+      "layer_number": 5,
+      "boundary_elevation_m": 292.89483642578125,
+      "rock_type_code": 47,
+      "rock_type_name": "Shale",
+      "age_code": 38,
+      "age_name": "Phanerozoic - Cenozoic - Tertiary-Paleogene - Early-Paleocene - Danian",
+      "age_min_ma": 61.599998474121094,
+      "age_max_ma": 66.0
+    },
+    {
+      "layer_number": 6,
+      "boundary_elevation_m": -74.29540252685547,
+      "rock_type_code": 53,
+      "rock_type_name": "Sandstone",
+      "age_code": 43,
+      "age_name": "Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Campanian",
+      "age_min_ma": 72.30000305175781,
+      "age_max_ma": 83.80000305175781
+    },
+    {
+      "layer_number": 7,
+      "boundary_elevation_m": -736.9644775390625,
+      "rock_type_code": 47,
+      "rock_type_name": "Shale",
+      "age_code": 41,
+      "age_name": "Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous",
+      "age_min_ma": 66.0,
+      "age_max_ma": 100.5
+    },
+    {
+      "layer_number": 8,
+      "boundary_elevation_m": -1287.8583984375,
+      "rock_type_code": 67,
+      "rock_type_name": "Limestone",
+      "age_code": 44,
+      "age_name": "Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Santonian",
+      "age_min_ma": 83.80000305175781,
+      "age_max_ma": 86.80000305175781
+    },
+    {
+      "layer_number": 9,
+      "boundary_elevation_m": -1667.0367431640625,
+      "rock_type_code": 47,
+      "rock_type_name": "Shale",
+      "age_code": 46,
+      "age_name": "Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Turonian",
+      "age_min_ma": 90.0999984741211,
+      "age_max_ma": 93.9000015258789
+    },
+    {
+      "layer_number": 10,
+      "boundary_elevation_m": -1994.65625,
+      "rock_type_code": 47,
+      "rock_type_name": "Shale",
+      "age_code": 50,
+      "age_name": "Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous - Aptian",
+      "age_min_ma": 113.0,
+      "age_max_ma": 125.0
+    },
+    {
+      "layer_number": 11,
+      "boundary_elevation_m": -2075.833251953125,
+      "rock_type_code": 45,
+      "rock_type_name": "Claystone",
+      "age_code": 48,
+      "age_name": "Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous",
+      "age_min_ma": 100.5,
+      "age_max_ma": 145.0
+    },
+    {
+      "layer_number": 12,
+      "boundary_elevation_m": -2892.962890625,
+      "rock_type_code": 53,
+      "rock_type_name": "Sandstone",
+      "age_code": 51,
+      "age_name": "Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous - Barremian",
+      "age_min_ma": 125.0,
+      "age_max_ma": 129.39999389648438
+    },
+    {
+      "layer_number": 13,
+      "boundary_elevation_m": -3399.413330078125,
+      "rock_type_code": 53,
+      "rock_type_name": "Sandstone",
+      "age_code": 57,
+      "age_name": "Phanerozoic - Mesozoic - Jurassic - Late-Jurassic - Tithonian",
+      "age_min_ma": 145.0,
+      "age_max_ma": 153.0
+    },
+    {
+      "layer_number": 14,
+      "boundary_elevation_m": -3540.69091796875,
+      "rock_type_code": 47,
+      "rock_type_name": "Shale",
+      "age_code": 55,
+      "age_name": "Phanerozoic - Mesozoic - Jurassic",
+      "age_min_ma": 145.0,
+      "age_max_ma": 201.5
+    },
+    {
+      "layer_number": 15,
+      "boundary_elevation_m": -15059.24609375,
+      "rock_type_code": 134,
+      "rock_type_name": "Granodiorite",
+      "age_code": 156,
+      "age_name": "preCambrian-Proterozoic - Paleoproterozoic - Orosirian",
+      "age_min_ma": 1800.0,
+      "age_max_ma": 2050.0
+    },
+    {
+      "layer_number": 16,
+      "boundary_elevation_m": -28453.865234375,
+      "rock_type_code": 200,
+      "rock_type_name": "Amphibolite",
+      "age_code": 156,
+      "age_name": "preCambrian-Proterozoic - Paleoproterozoic - Orosirian",
+      "age_min_ma": 1800.0,
+      "age_max_ma": 2050.0
+    },
+    {
+      "layer_number": 17,
+      "boundary_elevation_m": -41466.54296875,
+      "rock_type_code": 201,
+      "rock_type_name": "Granulite",
+      "age_code": 156,
+      "age_name": "preCambrian-Proterozoic - Paleoproterozoic - Orosirian",
+      "age_min_ma": 1800.0,
+      "age_max_ma": 2050.0
+    },
+    {
+      "layer_number": 18,
+      "boundary_elevation_m": 0.0,
+      "rock_type_code": 153,
+      "rock_type_name": "Peridotite",
+      "age_code": 156,
+      "age_name": "preCambrian-Proterozoic - Paleoproterozoic - Orosirian",
+      "age_min_ma": 1800.0,
+      "age_max_ma": 2050.0
+    }
+  ]
+}

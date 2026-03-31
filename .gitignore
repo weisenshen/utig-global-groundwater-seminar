@@ -1,0 +1,12 @@
+cat >> .gitignore <<'EOF'
+.DS_Store
+.cache/
+.mplconfig/
+*.sqlite-shm
+*.sqlite-wal
+
+USGS-geology model/
+References /
+MT-Data/
+outputs/conus_0p25/
+EOF

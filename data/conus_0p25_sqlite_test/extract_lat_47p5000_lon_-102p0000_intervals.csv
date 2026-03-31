@@ -1,0 +1,18 @@
+interval_index,top_elevation_m,bottom_elevation_m,thickness_m,rock_type_name,age_name,age_min_ma,age_max_ma,porosity_fraction,fluid_saturation_fraction,conductivity_s_per_m,vp_km_s,vs_km_s,property_class
+1,587.8902587890625,587.4903564453125,0.39990234375,Residuum,Phanerozoic - Cenozoic - Quaternary - Holocene,0.0,0.011699999682605267,0.25,1.0,0.03,2.0,0.8,unconsolidated
+2,587.4903564453125,555.271484375,32.2188720703125,Siltstone,Phanerozoic - Cenozoic - Tertiary-Paleogene - Late-Paleocene - Thanetian,56.0,59.20000076293945,0.06,1.0,0.02,3.2,1.6,clastic_fine
+3,555.271484375,467.8914489746094,87.38003540039062,Claystone,Phanerozoic - Cenozoic - Tertiary-Paleogene - Middle-Paleocene - Selandian,59.20000076293945,61.599998474121094,0.06,1.0,0.02,3.2,1.6,clastic_fine
+4,467.8914489746094,421.0003967285156,46.89105224609375,Sandstone,Phanerozoic - Cenozoic - Tertiary-Paleogene - Paleocene,56.0,66.0,0.12,1.0,0.01,4.0,2.2,clastic_coarse
+5,421.0003967285156,292.89483642578125,128.10556030273438,Shale,Phanerozoic - Cenozoic - Tertiary-Paleogene - Early-Paleocene - Danian,61.599998474121094,66.0,0.06,1.0,0.02,3.2,1.6,clastic_fine
+6,292.89483642578125,-74.29540252685547,367.1902389526367,Sandstone,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Campanian,72.30000305175781,83.80000305175781,0.12,1.0,0.01,4.0,2.2,clastic_coarse
+7,-74.29540252685547,-736.9644775390625,662.669075012207,Shale,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous,66.0,100.5,0.06,1.0,0.02,3.2,1.6,clastic_fine
+8,-736.9644775390625,-1287.8583984375,550.8939208984375,Limestone,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Santonian,83.80000305175781,86.80000305175781,0.05,1.0,0.005,5.8,3.1,carbonate
+9,-1287.8583984375,-1667.0367431640625,379.1783447265625,Shale,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Turonian,90.0999984741211,93.9000015258789,0.06,1.0,0.02,3.2,1.6,clastic_fine
+10,-1667.0367431640625,-1994.65625,327.6195068359375,Shale,Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous - Aptian,113.0,125.0,0.06,1.0,0.02,3.2,1.6,clastic_fine
+11,-1994.65625,-2075.833251953125,81.177001953125,Claystone,Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous,100.5,145.0,0.06,1.0,0.02,3.2,1.6,clastic_fine
+12,-2075.833251953125,-2892.962890625,817.129638671875,Sandstone,Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous - Barremian,125.0,129.39999389648438,0.12,1.0,0.01,4.0,2.2,clastic_coarse
+13,-2892.962890625,-3399.413330078125,506.450439453125,Sandstone,Phanerozoic - Mesozoic - Jurassic - Late-Jurassic - Tithonian,145.0,153.0,0.12,1.0,0.01,4.0,2.2,clastic_coarse
+14,-3399.413330078125,-3540.69091796875,141.277587890625,Shale,Phanerozoic - Mesozoic - Jurassic,145.0,201.5,0.06,1.0,0.02,3.2,1.6,clastic_fine
+15,-3540.69091796875,-15059.24609375,11518.55517578125,Granodiorite,preCambrian-Proterozoic - Paleoproterozoic - Orosirian,1800.0,2050.0,0.01,1.0,0.001,6.0,3.5,felsic_metamorphic
+16,-15059.24609375,-28453.865234375,13394.619140625,Amphibolite,preCambrian-Proterozoic - Paleoproterozoic - Orosirian,1800.0,2050.0,0.005,1.0,0.0005,6.8,3.9,mafic_ultramafic
+17,-28453.865234375,-41466.54296875,13012.677734375,Granulite,preCambrian-Proterozoic - Paleoproterozoic - Orosirian,1800.0,2050.0,0.005,1.0,0.0005,6.8,3.9,mafic_ultramafic

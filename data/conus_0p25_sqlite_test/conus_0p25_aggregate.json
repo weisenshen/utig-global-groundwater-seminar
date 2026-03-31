@@ -1,0 +1,26 @@
+{
+  "grid": {
+    "lat_min": 47.25,
+    "lat_max": 47.75,
+    "lon_min": -102.25,
+    "lon_max": -102.0,
+    "step_degrees": 0.25,
+    "requested_point_count": 6,
+    "processed_point_count": 6
+  },
+  "integration": {
+    "top_depth_km_below_surface": 10.0,
+    "total_pore_volume_km3": 1300.9017722844878,
+    "total_fluid_volume_km3": 1300.9017722844878
+  },
+  "property_model": {
+    "type": "provisional_internal_defaults",
+    "note": "These porosity, conductivity, and seismic properties are broad lithology-based placeholders and should be replaced with a calibrated property table before scientific use."
+  },
+  "outputs": {
+    "master_sqlite": "outputs/conus_0p25_sqlite_test/conus_0p25_master.sqlite",
+    "aggregate_json": "outputs/conus_0p25_sqlite_test/conus_0p25_aggregate.json",
+    "legacy_summary_csv": null,
+    "legacy_rock_properties_csv": null
+  }
+}

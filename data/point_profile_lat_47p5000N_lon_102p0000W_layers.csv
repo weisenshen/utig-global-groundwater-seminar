@@ -1,0 +1,19 @@
+layer_number,boundary_elevation_m,rock_type_code,rock_type_name,age_code,age_name,age_min_ma,age_max_ma
+1,587.4903564453125,40,Residuum,4,Phanerozoic - Cenozoic - Quaternary - Holocene,0.0,0.011699999682605267
+2,555.271484375,51,Siltstone,36,Phanerozoic - Cenozoic - Tertiary-Paleogene - Late-Paleocene - Thanetian,56.0,59.20000076293945
+3,467.8914489746094,45,Claystone,37,Phanerozoic - Cenozoic - Tertiary-Paleogene - Middle-Paleocene - Selandian,59.20000076293945,61.599998474121094
+4,421.0003967285156,53,Sandstone,35,Phanerozoic - Cenozoic - Tertiary-Paleogene - Paleocene,56.0,66.0
+5,292.89483642578125,47,Shale,38,Phanerozoic - Cenozoic - Tertiary-Paleogene - Early-Paleocene - Danian,61.599998474121094,66.0
+6,-74.29540252685547,53,Sandstone,43,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Campanian,72.30000305175781,83.80000305175781
+7,-736.9644775390625,47,Shale,41,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous,66.0,100.5
+8,-1287.8583984375,67,Limestone,44,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Santonian,83.80000305175781,86.80000305175781
+9,-1667.0367431640625,47,Shale,46,Phanerozoic - Mesozoic - Cretaceous - Late-Cretaceous - Turonian,90.0999984741211,93.9000015258789
+10,-1994.65625,47,Shale,50,Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous - Aptian,113.0,125.0
+11,-2075.833251953125,45,Claystone,48,Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous,100.5,145.0
+12,-2892.962890625,53,Sandstone,51,Phanerozoic - Mesozoic - Cretaceous - Early-Cretaceous - Barremian,125.0,129.39999389648438
+13,-3399.413330078125,53,Sandstone,57,Phanerozoic - Mesozoic - Jurassic - Late-Jurassic - Tithonian,145.0,153.0
+14,-3540.69091796875,47,Shale,55,Phanerozoic - Mesozoic - Jurassic,145.0,201.5
+15,-15059.24609375,134,Granodiorite,156,preCambrian-Proterozoic - Paleoproterozoic - Orosirian,1800.0,2050.0
+16,-28453.865234375,200,Amphibolite,156,preCambrian-Proterozoic - Paleoproterozoic - Orosirian,1800.0,2050.0
+17,-41466.54296875,201,Granulite,156,preCambrian-Proterozoic - Paleoproterozoic - Orosirian,1800.0,2050.0
+18,0.0,153,Peridotite,156,preCambrian-Proterozoic - Paleoproterozoic - Orosirian,1800.0,2050.0
